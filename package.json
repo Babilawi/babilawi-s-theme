@@ -1,0 +1,30 @@
+{
+  "name": "babilawi-theme",
+  "displayName": "Babilawi's Theme",
+  "description": "Purple theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Babilawi's Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Babilawi's Theme-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/logo.png",
+  "author": {
+    "name": "Babilawi"
+  },
+  "repository": {
+    "url": "https://github.com/Babilawi/babilawi-s-theme.git",
+    "type": "git"
+  },
+  "publisher": "babilawis-theme"
+}
